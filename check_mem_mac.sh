@@ -17,7 +17,7 @@ function printHelp {
   echo -e "-h  - Displays this help message"\\n
   echo -e "Example: $SCRIPT -w 80 -c 90"\\n
   echo -e \\n\\n"Author: Till Hein"
-  echo -e "Git: https://github.org/TillHein/nagios_plugins"
+  echo -e "Git: https://github.org/TillHein/nagiosPlugins"
   exit 1
 }
 
